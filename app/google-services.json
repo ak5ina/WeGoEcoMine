@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "391883483706",
+    "project_id": "wegoeco-e03ed",
+    "storage_bucket": "wegoeco-e03ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391883483706:android:89ee42c8a15671d8d36303",
+        "android_client_info": {
+          "package_name": "com.example.wegoeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391883483706-kfrklu96lj7if299c70lhbaekvsp5ou1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_84Rjhng7jetv_rp-HNqy5YBdQxuGIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391883483706-lv4mddgsllha3mocg18t67aj1vivko71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391883483706:android:c4164199fde6a8e3d36303",
+        "android_client_info": {
+          "package_name": "com.scrippy3.wegoecomine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391883483706-lv4mddgsllha3mocg18t67aj1vivko71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_84Rjhng7jetv_rp-HNqy5YBdQxuGIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391883483706-lv4mddgsllha3mocg18t67aj1vivko71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
